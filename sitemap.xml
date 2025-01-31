@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://docs.projecte-cevr.org/</loc>
+         <lastmod>2025-01-31</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.projecte-cevr.org/callouts/</loc>
+         <lastmod>2025-01-31</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.projecte-cevr.org/code-examples/</loc>
+         <lastmod>2025-01-31</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.projecte-cevr.org/diagram-examples/</loc>
+         <lastmod>2025-01-31</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.projecte-cevr.org/table-examples/</loc>
+         <lastmod>2025-01-31</lastmod>
+    </url>
+</urlset>
